@@ -1,5 +1,5 @@
-### <script>Hello world</script> 👋
-Hello I'm ISSAC
+### Hello I'm ISSAC 👋
+
 <!--
 **iss4cf0ng/iss4cf0ng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
