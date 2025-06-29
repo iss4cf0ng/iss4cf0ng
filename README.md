@@ -15,6 +15,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<!--
+![](https://github-readme-stats.vercel.app/api?username=iss4cf0ng&show_icons=true&theme=dark)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=iss4cf0ng&exclude_repo=iss4cf0ng,iss4cf0ng.github.io)
+-->
+
 <h3 align="left">Languages - Application</h3>
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
