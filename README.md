@@ -36,6 +36,7 @@ Here are some ideas to get you started:
 - [EgoDrop](https://github.com/iss4cf0ng/EgoDrop) Remote Access Tool for Linux platform, C/C++ based payload.
 - [GhootenTag](https://github.com/iss4cf0ng/GhootenTag) XSS attack tool.
 - [ThornGrid](https://github.com/iss4cf0ng/ThornGrid) Botnet DDoS/Stress test tool.
+- [WinPower](https://github.com/iss4cf0ng/WinPower) Remote Access Tool for Windows platform, PowerShell based payload.
 
 <h4 aligin="left">In soon</h4>
 
