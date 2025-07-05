@@ -92,3 +92,33 @@ Here are some ideas to get you started:
 ![Google Chrome](https://img.shields.io/badge/Google%20Chrome-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white)
 ![Safari](https://img.shields.io/badge/Safari-000000?style=for-the-badge&logo=Safari&logoColor=white)
 ![Tor](https://img.shields.io/badge/Tor-7D4698?style=for-the-badge&logo=Tor-Browser&logoColor=white)
+
+<!--
+
+## Reading lists
+### Windows
+
+| Name                                       |
+|--------------------------------------------|
+| Windows Internals, Part 1                  |
+| Windows Internals, Part 2                  |
+| 完全 OS 核心精修 - 熟稔 Windows API 基礎篇 |
+| 完全 OS 核心精修 - 熟稔 Windows API 高級篇 |
+
+### Linux
+
+
+### Pentest
+
+| Name                              |
+|-----------------------------------|
+| 域滲透攻防指南                    |
+| ATT & CK 視角下的紅藍對抗實戰指南 |
+| 紅隊實戰寶典之內網滲透測試        |
+| 紅藍對抗：近源滲透實戰寶典        |
+| 內網滲透實戰攻略                  |
+
+### Coding
+
+
+-->
