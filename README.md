@@ -21,6 +21,26 @@ Here are some ideas to get you started:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=iss4cf0ng&exclude_repo=iss4cf0ng,iss4cf0ng.github.io)
 -->
 
+<h3 aligin="left">Actively being developed</h3>
+<h4 aligin="left">Public repo</h4>
+
+- [DuplexSpy](https://github.com/iss4cf0ng/DuplexSpyCS) Remote Access Tool for Windows platform, C# based payload.
+- [pyWinDoor](https://github.com/iss4cf0ng/pyWinDoor) Remote Access Tool for Windows platform, Python based payload.
+- [Eden-RAT](https://github.com/iss4cf0ng/Eden-RAT) Remote Access Tool for Linux platform, Python based payload.
+- [LaserGunDDoS](https://github.com/iss4cf0ng/LaserGunDDoS) Modularized Denial of Service tool.
+- [Alien (Rewrite version)](https://github.com/iss4cf0ng/Alien) Webshell management tool.
+
+<h4 aligin="left">Private repo</h4>
+
+- [EgoDrop](https://github.com/iss4cf0ng/EgoDrop) Remote Access Tool for Linux platform, C/C++ based payload.
+- [GhootenTag](https://github.com/iss4cf0ng/GhootenTag) XSS attack tool.
+- [ThornGrid](https://github.com/iss4cf0ng/ThornGrid) Botnet DDoS/Stress test tool.
+
+<h4 aligin="left">In soon</h4>
+
+- TuxDoor: Remote Access Tool for Unix-like system.
+- AngelDust: Remote Access Tool for Windows platform, C/C++/Win32 C++ based payload.
+
 <h3 align="left">Languages - Application</h3>
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
