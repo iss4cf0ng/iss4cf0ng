@@ -1,6 +1,23 @@
 # Hello I'm ISSAC 👋
 ## <script>alert(/This is not executable...is it?/);</script>
 
+# Learning
+## Human language.
+- English
+- Spanish (Estudio español. ¡Much gusto!)
+- Japanses
+- Korean
+
+## Computer programming language.
+- Web development
+- C/C++/C#
+- Windows API C++
+- Kernel C++
+
+## Cybersecurity
+- Reverse engineering
+- Anomity
+
 <!--
 **iss4cf0ng/iss4cf0ng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
