@@ -6,7 +6,7 @@
 - English
 - Spanish (Estudio español. ¡Much gusto!)
 - Japanses (私は勉強します。はじめまして。)
-- Korean (저는한국어를곤봉해요.)
+- Korean (저는한국어를공부해요. 만나서반갑습니다.)
 
 ## Computer programming language.
 - Web development
