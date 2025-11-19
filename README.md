@@ -5,8 +5,8 @@
 ## Human language.
 - English
 - Spanish (Estudio español. ¡Much gusto!)
-- Japanses
-- Korean
+- Japanses (私は勉強します。はじめまして。)
+- Korean (저는한국어를곤봉해요.)
 
 ## Computer programming language.
 - Web development
