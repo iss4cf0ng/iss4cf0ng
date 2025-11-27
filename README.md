@@ -15,6 +15,7 @@
 - Kernel C++
 
 ## Cybersecurity
+- Industrial Security(PLC/Modbus)
 - Reverse engineering
 - Shellcode
 - Anonymity
