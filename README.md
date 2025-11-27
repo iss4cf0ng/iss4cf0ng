@@ -17,7 +17,7 @@
 ## Cybersecurity
 - Reverse engineering
 - Shellcode
-- Anomity
+- Anonymity
 - Active Directory
 - Low level C++
 
