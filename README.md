@@ -16,7 +16,10 @@
 
 ## Cybersecurity
 - Reverse engineering
+- Shellcode
 - Anomity
+- Active Directory
+- Low level C++
 
 <!--
 **iss4cf0ng/iss4cf0ng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
