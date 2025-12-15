@@ -46,6 +46,7 @@ Here are some ideas to get you started:
 <h3 aligin="left">Public repo</h3>
 
 - [DuplexSpy](https://github.com/iss4cf0ng/DuplexSpyCS) Remote Access Tool for Windows platform, C# based payload.
+- [EgoDrop](https://github.com/iss4cf0ng/EgoDrop) Remote Access Tool for Linux platform, C/C++ based payload.
 - [pyWinDoor](https://github.com/iss4cf0ng/pyWinDoor) Remote Access Tool for Windows platform, Python based payload.
 - [Eden-RAT](https://github.com/iss4cf0ng/Eden-RAT) Remote Access Tool for Linux platform, Python based payload.
 - [LaserGunDDoS](https://github.com/iss4cf0ng/LaserGunDDoS) Modularized Denial of Service tool.
@@ -54,7 +55,6 @@ Here are some ideas to get you started:
 
 <h3 aligin="left">Private repo</h3>
 
-- [EgoDrop](https://github.com/iss4cf0ng/EgoDrop) Remote Access Tool for Linux platform, C/C++ based payload.
 - [GhootenTag](https://github.com/iss4cf0ng/GhootenTag) XSS attack tool.
 - [ThornGrid](https://github.com/iss4cf0ng/ThornGrid) Botnet DDoS/Stress test tool.
 - [WinPower](https://github.com/iss4cf0ng/WinPower) Remote Access Tool for Windows platform, PowerShell based payload.
