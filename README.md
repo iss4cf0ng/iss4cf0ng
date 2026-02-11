@@ -1,6 +1,9 @@
 # Hello I'm ISSAC 👋
 ## <script>alert(/This is not executable...is it?/);</script>
 
+# Blog
+[iss4cf0ng.github.io](https://iss4cf0ng.github.io/)
+
 # Learning
 ## Human language.
 - English
