@@ -2,7 +2,7 @@
 ## <script>alert(/This is not executable...is it?/);</script>
 
 <p align="center">
-  <img src="https://iss4cf0ng.github.io/images/meme/koyuki_jail.jpg" width="400">
+  <img src="https://iss4cf0ng.github.io/images/meme/koyuki_jail.jpg" width="300">
 </p>
 
 # Learning
