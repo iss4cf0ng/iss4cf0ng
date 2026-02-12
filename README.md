@@ -4,7 +4,7 @@
 # Learning
 ## Human language.
 - English
-- Spanish (Estudio español. ¡Much gusto!)
+- Spanish (Estudio español. ¡Mucho gusto!)
 - Japanses (私は勉強します。はじめまして。)
 - Korean (저는한국어를공부해요. 만나서반갑습니다.)
 
