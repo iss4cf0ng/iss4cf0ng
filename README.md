@@ -1,4 +1,9 @@
 # Hello I'm ISSAC 👋
+
+<p align="center">
+  <img src="https://iss4cf0ng.github.io/images/default-cover.png" width=300>
+</p>
+
 ## <script>alert(/This is not executable...is it?/);</script>
 
 # Learning
