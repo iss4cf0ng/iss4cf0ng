@@ -1,7 +1,13 @@
 # Hello I'm ISSAC 👋
 
 <p align="center">
-  <img src="https://iss4cf0ng.github.io/images/default-cover.png" width=300>
+  <img src="https://iss4cf0ng.github.io/images/default-cover.png" width=200>
+  <img src="https://iss4cf0ng.github.io/images/meme/rio_crying.jpg" width=165>
+</p>
+
+<p align="center">
+  <a href="https://nice-readme.vercel.app/github-stats" target="_blank" rel="noopener noreferrer"><img src="https://helio-github-stats.vercel.app/api?username=iss4cf0ng&custom_title=GitHub+Stats&theme=radical&title_color=35e1ed&text_color=34d5a5&icon_color=f250ec&ring_color=cf35ed&border_color=e4e2e2&hide_border=false&locale=en&border_radius=4.5&card_width=466&hide_title=false&hide_rank=false&rank_icon=default&show_icons=true&include_all_commits=false&line_height=25&text_bold=true&disable_animations=false&number_format=short" alt="GitHub Stats" width="466" height="auto" loading="lazy" /></a>
+<a href="https://nice-readme.vercel.app/streak-stats" target="_blank" rel="noopener noreferrer"><img src="https://github-streak-stats-ruby.vercel.app/?user=iss4cf0ng&theme=radical&hide_border=false&border_radius=4.5&locale=pt_BR&short_numbers=false&mode=daily&disable_animations=false&card_width=466&card_height=194&hide_total_contributions=false&hide_current_streak=false&hide_longest_streak=false" alt="GitHub Streak de iss4cf0ng" width="466" height="194" loading="lazy" /></a>
 </p>
 
 ## <script>alert(/This is not executable...is it?/);</script>
