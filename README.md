@@ -1,7 +1,5 @@
 # Hello I'm ISSAC 👋
 
-
-
 <p align="center">
   <img src="https://iss4cf0ng.github.io/images/default-cover.png" width=200>
   <img src="https://iss4cf0ng.github.io/images/meme/rio_crying.jpg" width=165>
