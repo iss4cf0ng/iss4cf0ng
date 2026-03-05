@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-<a href="https://nice-readme.vercel.app/top-langs" target="_blank" rel="noopener noreferrer"><img src="https://helio-github-stats.vercel.app/api/top-langs?username=iss4cf0ng&layout=compact&stats_format=percentages&theme=dark&hide_border=false&border_radius=4.5&card_width=466&locale=pt-br&custom_title=Linguagens+mais+usadas&hide=HTML%2CCSS%2CJavascript%2Cphp%2Cclassic+asp%2C%2C+asp.net&langs_count=10" alt="Linguagens mais usadas" width="466" height="auto" loading="lazy" /></a>
+<a href="https://nice-readme.vercel.app/top-langs" target="_blank" rel="noopener noreferrer"><img src="https://helio-github-stats.vercel.app/api/top-langs?username=iss4cf0ng&layout=compact&stats_format=percentages&theme=dark&hide_border=false&border_radius=4.5&card_width=466&locale=pt-br&custom_title=Linguagens+mais+usadas&hide=HTML%2CCSS%2CJavascript%2Cphp%2Cclassic+asp%2C%2C+asp.net&langs_count=10" alt="Languages" width="466" height="auto" loading="lazy" /></a>
 </p>
 
 <p align="center">
