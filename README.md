@@ -1,4 +1,6 @@
 # Hello I'm ISSAC 👋
+# About Me
+Offensive Security enthusiast | Building RATs, loaders & tools for research & red teaming | Blog: iss4cf0ng.github.io | DM on X @iss4c_f0ng
 
 <p align="center">
   <img src="https://iss4cf0ng.github.io/images/default-cover.png" width=200>
@@ -7,78 +9,71 @@
 </p>
 
 <p align="center">
-<a href="https://nice-readme.vercel.app/top-langs" target="_blank" rel="noopener noreferrer"><img src="https://helio-github-stats.vercel.app/api/top-langs?username=iss4cf0ng&layout=compact&stats_format=percentages&theme=dark&hide_border=false&border_radius=4.5&card_width=466&locale=pt-br&custom_title=Linguagens+mais+usadas&hide=HTML%2CCSS%2CJavascript%2Cphp%2Cclassic+asp%2C%2C+asp.net&langs_count=10" alt="Languages" width="466" height="auto" loading="lazy" /></a>
+  <img src="https://helio-github-stats.vercel.app/api/top-langs?username=iss4cf0ng&layout=compact&stats_format=percentages&theme=dark&hide_border=false&border_radius=10&card_width=700&locale=en&custom_title=Top%20Languages&hide=HTML,CSS,Javascript,php,classic+asp,asp.net&langs_count=10" alt="Top Languages" loading="lazy" />
 </p>
 
 <p align="center">
-  <a href="https://nice-readme.vercel.app/github-stats" target="_blank" rel="noopener noreferrer"><img src="https://helio-github-stats.vercel.app/api?username=iss4cf0ng&custom_title=GitHub+Stats&theme=radical&title_color=35e1ed&text_color=34d5a5&icon_color=f250ec&ring_color=cf35ed&border_color=e4e2e2&hide_border=false&locale=en&border_radius=4.5&card_width=466&hide_title=false&hide_rank=false&rank_icon=default&show_icons=true&include_all_commits=false&line_height=25&text_bold=true&disable_animations=false&number_format=short&count_private=true" alt="GitHub Stats" width="466" height="auto" loading="lazy" /></a>
-<a href="https://nice-readme.vercel.app/streak-stats" target="_blank" rel="noopener noreferrer"><img src="https://github-streak-stats-ruby.vercel.app/?user=iss4cf0ng&theme=radical&hide_border=false&border_radius=4.5&locale=en&short_numbers=false&mode=daily&disable_animations=false&card_width=466&card_height=194&hide_total_contributions=false&hide_current_streak=false&hide_longest_streak=false" alt="GitHub Streak de iss4cf0ng" width="466" height="194" loading="lazy" /></a>
+  <!-- GitHub Stats + Streak 並排，用 table 強制左右 -->
+  <table align="center">
+    <tr>
+      <td>
+        <a href="https://nice-readme.vercel.app/github-stats">
+          <img src="https://helio-github-stats.vercel.app/api?username=iss4cf0ng&custom_title=GitHub+Stats&theme=radical&title_color=35e1ed&text_color=34d5a5&icon_color=f250ec&ring_color=cf35ed&border_color=e4e2e2&hide_border=false&locale=en&border_radius=10&card_width=400&show_icons=true&count_private=true" alt="GitHub Stats" loading="lazy" />
+        </a>
+      </td>
+      <td>
+        <a href="https://nice-readme.vercel.app/streak-stats">
+          <img src="https://github-streak-stats-ruby.vercel.app/?user=iss4cf0ng&theme=radical&hide_border=false&border_radius=10&locale=en&card_width=400&card_height=194" alt="GitHub Streak" loading="lazy" />
+        </a>
+      </td>
+    </tr>
+  </table>
 </p>
 
 ## <script>alert(/This is not executable...is it?/);</script>
 
-# Learning
-## Human language.
+## Human Languages
 - English
 - Spanish (Estudio español. ¡Mucho gusto!)
-- Japanses (私は勉強します。はじめまして。)
-- Korean (저는한국어를공부해요. 만나서반갑습니다.)
+- Japanese (私は勉強します。はじめまして。)
+- Korean (저는 한국어를 공부해요. 만나서 반갑습니다.)
 
-## Computer programming language.
+## Programming Languages & Tech
 - Web development
-- C/C++/C#
-- Windows API C++
-- Kernel C++
+- C / C++ / C#
+- Windows API & Kernel C++
+- Reverse Engineering, Shellcode, Low-level stuff
 
-## Cybersecurity
-- Industrial Security(PLC/Modbus)
-- Reverse engineering
-- Shellcode
-- Anonymity
-- Active Directory
-- Low level C++
+## Cybersecurity Focus
+- Industrial Security (PLC/Modbus)
+- Reverse Engineering
+- Shellcode Development
+- Anonymity & Evasion
+- Active Directory Attacks
+- Tool Development (RATs, Loaders, C2)
 
-<!--
-**iss4cf0ng/iss4cf0ng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2 align="left">Actively Being Developed</h2>
 
-Here are some ideas to get you started:
+**Public Repos**
+- [DuplexSpy](https://github.com/iss4cf0ng/DuplexSpyCS) - Remote Access Tool (Windows, C# payload)
+- [EgoDrop](https://github.com/iss4cf0ng/EgoDrop) - RAT for Linux (C/C++ payload)
+- [pyWinDoor](https://github.com/iss4cf0ng/pyWinDoor) - RAT for Windows (Python payload)
+- [Eden-RAT](https://github.com/iss4cf0ng/Eden-RAT) - RAT for Linux (Python payload)
+- [LaserGunDDoS](https://github.com/iss4cf0ng/LaserGunDDoS) - Modular DDoS tool
+- [Alien (Rewrite)](https://github.com/iss4cf0ng/Alien) - Webshell management tool
+- [Miniluv](https://github.com/iss4cf0ng/Miniluv) - ARP spoofing & MITM tool
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Private Repos**
+- GhootenTag - XSS attack tool
+- ThornGrid - Botnet DDoS/Stress tool
+- WinPower - RAT for Windows (PowerShell payload)
 
-<!--
-![](https://github-readme-stats.vercel.app/api?username=iss4cf0ng&show_icons=true&theme=dark)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=iss4cf0ng&exclude_repo=iss4cf0ng,iss4cf0ng.github.io)
--->
+**Coming Soon**
+- Tuxnet - RAT for Unix-like systems
+- AngelDust - RAT for Windows (C/C++/Win32 payload)
 
-<h2 aligin="left">Actively being developed</h2>
-<h3 aligin="left">Public repo</h3>
-
-- [DuplexSpy](https://github.com/iss4cf0ng/DuplexSpyCS) Remote Access Tool for Windows platform, C# based payload.
-- [EgoDrop](https://github.com/iss4cf0ng/EgoDrop) Remote Access Tool for Linux platform, C/C++ based payload.
-- [pyWinDoor](https://github.com/iss4cf0ng/pyWinDoor) Remote Access Tool for Windows platform, Python based payload.
-- [Eden-RAT](https://github.com/iss4cf0ng/Eden-RAT) Remote Access Tool for Linux platform, Python based payload.
-- [LaserGunDDoS](https://github.com/iss4cf0ng/LaserGunDDoS) Modularized Denial of Service tool.
-- [Alien (Rewrite version)](https://github.com/iss4cf0ng/Alien) Webshell management tool.
-- [Miniluv](https://github.com/iss4cf0ng/Miniluv) ARP spoofing and MITM tool.
-
-<h3 aligin="left">Private repo</h3>
-
-- [GhootenTag](https://github.com/iss4cf0ng/GhootenTag) XSS attack tool.
-- [ThornGrid](https://github.com/iss4cf0ng/ThornGrid) Botnet DDoS/Stress test tool.
-- [WinPower](https://github.com/iss4cf0ng/WinPower) Remote Access Tool for Windows platform, PowerShell based payload.
-
-<h3 aligin="left">In soon</h3>
-
-- Tuxnet : Remote Access Tool for Unix-like system.
-- AngelDust : Remote Access Tool for Windows platform, C/C++/Win32 C++ based payload.
+<details>
+<summary>Tech Stack (click to expand)</summary>
 
 <h2 align="left">Languages - Application</h2>
 
@@ -131,6 +126,8 @@ Here are some ideas to get you started:
 ![Google Chrome](https://img.shields.io/badge/Google%20Chrome-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white)
 ![Safari](https://img.shields.io/badge/Safari-000000?style=for-the-badge&logo=Safari&logoColor=white)
 ![Tor](https://img.shields.io/badge/Tor-7D4698?style=for-the-badge&logo=Tor-Browser&logoColor=white)
+
+</details>
 
 <!--
 
