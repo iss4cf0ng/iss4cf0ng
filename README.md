@@ -1,4 +1,13 @@
 # About Me
+
+![Profile Views](https://komarev.com/ghpvc/?username=iss4cf0ng&color=blue)
+![Works on my machine](https://img.shields.io/badge/works_on-my_machine-green)
+![Powered by Coffee](https://img.shields.io/badge/powered_by-coffee-brown)
+![Bug Creator](https://img.shields.io/badge/bugs-created%20daily-red)
+![Magic](https://img.shields.io/badge/it-works%20somehow-blueviolet)
+![Debugging](https://img.shields.io/badge/debugging-why%20is%20it%20working-yellow)
+![Production](https://img.shields.io/badge/pushed_to-production%20on%20Friday-red)
+
 Offensive Security enthusiast | Building RATs, loaders & tools for research & red teaming | Blog: [iss4cf0ng.github.io](https://iss4cf0ng.github.io) | DM on X: [iss4c_f0ng](https://x.com/iss4c_f0ng)
 
 <p align="center">
