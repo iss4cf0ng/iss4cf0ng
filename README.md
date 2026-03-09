@@ -18,7 +18,7 @@ Offensive Security enthusiast | Building RATs, loaders & tools for research & re
 </p>
 
 <p align="center">
-  <img src="https://helio-github-stats.vercel.app/api/top-langs?username=iss4cf0ng&layout=compact&stats_format=percentages&theme=dark&hide_border=false&border_radius=10&card_width=700&locale=en&custom_title=Top%20Languages&hide=HTML,CSS,Javascript,php,classic+asp,asp.net&langs_count=10" alt="Top Languages" loading="lazy" />
+  <img src="https://helio-github-stats.vercel.app/api/top-langs?username=iss4cf0ng&layout=compact&stats_format=percentages&theme=dark&hide_border=false&border_radius=10&card_width=700&locale=en&custom_title=Top%20Languages&hide=HTML,CSS,Javascript,php,classic+asp,asp.net,shell,makefile&langs_count=10" alt="Top Languages" loading="lazy" />
 </p>
 
 <p align="center">
