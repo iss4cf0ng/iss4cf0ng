@@ -93,6 +93,7 @@ Offensive Security enthusiast | Building RATs, loaders & tools for research & re
 ![Perl](https://img.shields.io/badge/perl-%2339457E.svg?style=for-the-badge&logo=perl&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Rust](https://img.shields.io/badge/rust-FF8C00?style=for-the-badge&logo=rust&logoColor=white)
 
 <h2 align="left">Language - Web</h2>
 
