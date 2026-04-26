@@ -66,7 +66,7 @@ Offensive Security enthusiast | Building RATs, loaders & tools for research & re
 
 <h2 align="left">Actively Being Developed</h2>
 
-**Public Repos**
+**Ongoing Public Repos**
 - [DuplexSpy](https://github.com/iss4cf0ng/DuplexSpyCS) - Remote Access Tool (Windows, C# payload)
 - [EgoDrop](https://github.com/iss4cf0ng/EgoDrop) - RAT for Linux (C/C++ payload)
 - [pyWinDoor](https://github.com/iss4cf0ng/pyWinDoor) - RAT for Windows (Python payload)
@@ -75,7 +75,7 @@ Offensive Security enthusiast | Building RATs, loaders & tools for research & re
 - [Alien (Rewrite)](https://github.com/iss4cf0ng/Alien) - Webshell management tool
 - [Miniluv](https://github.com/iss4cf0ng/Miniluv) - ARP spoofing & MITM tool
 
-**Private Repos**
+**Ongoing Private Repos**
 - GhootenTag - XSS attack tool
 - ThornGrid - Botnet DDoS/Stress tool
 - WinPower - RAT for Windows (PowerShell payload)
