@@ -45,7 +45,6 @@ Offensive Security enthusiast | Building RATs, loaders & tools for research & re
 ## <script>alert(/This is not executable...is it?/);</script>
 
 ## Human Languages
-- Chinese (Mandarin + Cantonese)
 - English
 - Spanish (Estudio español. ¡Mucho gusto!)
 - Japanese (私は勉強します。はじめまして。)
