@@ -33,13 +33,9 @@ Offensive Security enthusiast | Building RATs, loaders & tools for research & re
           <img src="https://helio-github-stats.vercel.app/api?username=iss4cf0ng&custom_title=GitHub+Stats&theme=radical&title_color=35e1ed&text_color=34d5a5&icon_color=f250ec&ring_color=cf35ed&border_color=e4e2e2&hide_border=false&locale=en&border_radius=10&card_width=400&show_icons=true&count_private=true" alt="GitHub Stats" loading="lazy" />
         </a>
       </td>
-      <!--
       <td>
-        <a href="https://nice-readme.vercel.app/streak-stats">
-          <img src="https://github-streak-stats-ruby.vercel.app/?user=iss4cf0ng&theme=radical&hide_border=false&border_radius=10&locale=en&card_width=400&card_height=194" alt="GitHub Streak" loading="lazy" />
-        </a>
+        <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=iss4cf0ng&theme=tokyonight" alt="GitHub Streak" /></a>
       </td>
-      --> 
     </tr>
   </table>
 </p>
