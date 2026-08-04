@@ -35,7 +35,9 @@ Offensive Security enthusiast | Building RATs, loaders & tools for research & re
         </a>
       </td>
       <td>
+        <!--
         <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=iss4cf0ng&theme=tokyonight" alt="GitHub Streak" /></a>
+        -->
       </td>
     </tr>
   </table>
