@@ -76,13 +76,23 @@ Offensive Security enthusiast | Building RATs, loaders & tools for research & re
 - [Miniluv](https://github.com/iss4cf0ng/Miniluv) - ARP spoofing & MITM tool
 
 **Ongoing Private Repos**
+
+<details>
+
 - GhootenTag - XSS attack tool
 - ThornGrid - Botnet DDoS/Stress tool
 - WinPower - RAT for Windows (PowerShell payload)
 
+</details>
+
 **Coming Soon**
+
+<details>
+  
 - Tuxnet - RAT for Unix-like systems
 - AngelDust - RAT for Windows (C/C++/Win32 payload)
+
+</details>
 
 <details>
 <summary>Tech Stack (click to expand)</summary>
