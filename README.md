@@ -67,16 +67,24 @@ Offensive Security enthusiast | Building RATs, loaders & tools for research & re
 - Active Directory Attacks
 - Tool Development (RATs, Loaders, C2)
 
+<h2 align="left">Try These Projects!</h2>
+
+- [OpenPetya](https://github.com/iss4cf0ng/OpenPetya) - Bootkit, re-implementation of Petya/NotPetya
+- [Alien](https://github.com/iss4cf0ng/Alien) - Webshell framework
+- [DuplexSpy](https://github.com/iss4cf0ng/DuplexSpyCS) - Remote Access Tool (Windows, C# payload)
+- [Eden-RAT](https://github.com/iss4cf0ng/Eden-RAT) - RAT for Linux (Python payload)
+- [NebulaPulsar](https://github.com/iss4cf0ng/NebulaPulsar) - Webshell implant
+
 <h2 align="left">Actively Being Developed</h2>
 
 **Ongoing Public Repos**
-- [DuplexSpy](https://github.com/iss4cf0ng/DuplexSpyCS) - Remote Access Tool (Windows, C# payload)
 - [EgoDrop](https://github.com/iss4cf0ng/EgoDrop) - RAT for Linux (C/C++ payload)
 - [pyWinDoor](https://github.com/iss4cf0ng/pyWinDoor) - RAT for Windows (Python payload)
-- [Eden-RAT](https://github.com/iss4cf0ng/Eden-RAT) - RAT for Linux (Python payload)
 - [LaserGunDDoS](https://github.com/iss4cf0ng/LaserGunDDoS) - Modular DDoS tool
-- [Alien (Rewrite)](https://github.com/iss4cf0ng/Alien) - Webshell management tool
 - [Miniluv](https://github.com/iss4cf0ng/Miniluv) - ARP spoofing & MITM tool
+- [WinPower](https://github.com/iss4cf0ng/WinPower) - RAT for Windows (PowerShell payload)
+- [StummSchneide](https://github.com/iss4cf0ng/StummSchneide) - Shellcode implant
+- [DustHarbor](https://github.com/iss4cf0ng/DustHarbor) - Shellcode RAT
 
 **Ongoing Private Repos**
 
@@ -84,7 +92,6 @@ Offensive Security enthusiast | Building RATs, loaders & tools for research & re
 
 - GhootenTag - XSS attack tool
 - ThornGrid - Botnet DDoS/Stress tool
-- WinPower - RAT for Windows (PowerShell payload)
 
 </details>
 
