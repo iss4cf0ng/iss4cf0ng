@@ -48,18 +48,24 @@ Offensive Security enthusiast | Building RATs, loaders & tools for research & re
 ## <script>alert(/This is not executable...is it?/);</script>
 
 ## Human Languages
+
+
 - English
 - Spanish (Estudio español. ¡Mucho gusto!)
 - Japanese (私は勉強します。はじめまして。)
 - Korean (저는 한국어를 공부해요. 만나서 반갑습니다.)
 
 ## Programming Languages & Tech
+
+
 - Web development
 - C / C++ / C#
 - Windows API & Kernel C++
 - Reverse Engineering, Shellcode, Low-level stuff
 
 ## Cybersecurity Focus
+
+
 - Industrial Security (PLC/Modbus)
 - Reverse Engineering
 - Shellcode Development
@@ -77,7 +83,10 @@ Offensive Security enthusiast | Building RATs, loaders & tools for research & re
 
 <h2 align="left">Actively Being Developed</h2>
 
+<details>
+
 **Ongoing Public Repos**
+  
 - [EgoDrop](https://github.com/iss4cf0ng/EgoDrop) - RAT for Linux (C/C++ payload)
 - [pyWinDoor](https://github.com/iss4cf0ng/pyWinDoor) - RAT for Windows (Python payload)
 - [LaserGunDDoS](https://github.com/iss4cf0ng/LaserGunDDoS) - Modular DDoS tool
@@ -88,24 +97,20 @@ Offensive Security enthusiast | Building RATs, loaders & tools for research & re
 
 **Ongoing Private Repos**
 
-<details>
-
 - GhootenTag - XSS attack tool
 - ThornGrid - Botnet DDoS/Stress tool
 
-</details>
-
 **Coming Soon**
-
-<details>
   
 - Tuxnet - RAT for Unix-like systems
 - AngelDust - RAT for Windows (C/C++/Win32 payload)
 
 </details>
 
+---
+
 <details>
-<summary>Tech Stack (click to expand)</summary>
+<summary>Tech Stack</summary>
 
 <h2 align="left">Languages - Application</h2>
 
