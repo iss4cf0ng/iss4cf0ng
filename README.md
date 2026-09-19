@@ -13,7 +13,11 @@ Offensive Security enthusiast | Building RATs, loaders & tools for research & re
 ![Production](https://img.shields.io/badge/pushed_to-production%20on%20Friday-red)
 
 <p align="center">
+  <!--
   <img src="https://iss4cf0ng.github.io/images/DreamLover/anime.gif" width=400/>
+  -->
+  
+  <img src="https://iss4cf0ng.github.io/images/meme/Wallpaper/MyArt/9.png" width="500"/>
 </p>
 
 <!--
