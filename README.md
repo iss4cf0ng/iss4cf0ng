@@ -1,6 +1,6 @@
 Offensive Security enthusiast | Building RATs, loaders & tools for research & red teaming | Blog: [iss4cf0ng.github.io](https://iss4cf0ng.github.io) | DM on X: [iss4c_f0ng](https://x.com/iss4c_f0ng) ｜ Pixiv: [iss4cf0ng](https://www.pixiv.net/users/129297091)
 
-My computer is dead (Day 2... 🥲)
+My computer is dead (Day 3... 🥲)
 
 ---
 
