@@ -53,6 +53,7 @@ Offensive Security enthusiast | Building RATs, loaders & tools for research & re
 
 
 - English
+- Chinese
 - Spanish (Estudio español. ¡Mucho gusto!)
 - Japanese (私は勉強します。はじめまして。)
 - Korean (저는 한국어를 공부해요. 만나서 반갑습니다.)
